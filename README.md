@@ -8,7 +8,7 @@ One aspect we went over this week was Physical Computing and Arduino. I can hone
 
 **Be Autodidactic**
 
-One thing this course has taught me so far is the importance of self-education. Minimally engaging with the course will only get you so far. It's up to you to do extra research and put in extra hours to get ti grips with your work. For me, this part of the unit was not my forte; I found it really confusing. So I went beyond the reading list, looking into basic lessons in Arduino, TinkerCAD and GitHub just to wrap my head around these tools. Now, I feel a little more confident in this field compared to if I just half-assed my way through the week.
+One thing this course has taught me so far is the importance of self-education. Minimally engaging with the course will only get you so far. It's up to you to do extra research and put in extra hours to get ti grips with your work. For me, this part of the unit was not my forte; I found it really confusing. So I went beyond the reading list, looking into basic lessons in Arduino, TinkerCAD, GitHub and writing in Markdown just to wrap my head around these tools. Now, I feel a little more confident in this field compared to if I just half-assed my way through the week.
 
 **Final Thoughts**
 
